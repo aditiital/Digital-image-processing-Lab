@@ -64,9 +64,6 @@ A **minimum of eight practicals** are to be performed based on the theory course
 | 07            | Image Segmentation using Thresholding and Edge Detection |
 | 08            | Region-Based Image Segmentation                          |
 
-> **Note:** The practical topics may be updated according to the experiments prescribed by the institute/faculty.
-
----
 
 ## 🛠️ Tools & Technologies
 
